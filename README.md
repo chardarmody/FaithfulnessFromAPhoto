@@ -7,25 +7,25 @@ College students were asked to look at a photograph of an opposite-sex adult fac
 ## Format
 A data frame with 170 observations on the following 7 variables.
 
-###### SexDimorph
+1. SexDimorph
 Rating of sexual dimorphism (masculinity for males, femininity for females)
 
-###### Attract
+2. Attract
 Rating of attractiveness
 
-###### Cheater
+3. Cheater
 Was the face subject unfaithful to a partner? (1=yes or 0=no)
 
-###### Trust
+4. Trust
 Rating of trustworthiness
 
-###### Faithful
+5. Faithful
 Rating of faithfulness
 
-###### FaceSex
+6. FaceSex
 Sex of face (F=female or M=male)
 
-###### RaterSex
+7. RaterSex
 Sex of rater (F=female or M=male)
 
 ## Source
